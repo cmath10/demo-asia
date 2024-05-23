@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "shims-*.d.ts",
+    "sandbox/**/*.ts",
+    "sandbox/**/*.vue",
+    "src/**/*.ts",
+    "src/**/*.vue",
+    "tests/**/*.ts",
+    "tests/**/*.vue",
+    "eslint.config.mjs",
+    "vite.config.ts"
+  ]
+}
