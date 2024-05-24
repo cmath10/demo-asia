@@ -9,6 +9,8 @@
     "tests/**/*.ts",
     "tests/**/*.vue",
     "eslint.config.mjs",
+    "playwright.config.ts",
+    "vite.config.common.ts",
     "vite.config.ts"
   ]
 }

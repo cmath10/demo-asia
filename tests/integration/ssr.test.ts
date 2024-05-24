@@ -4,7 +4,7 @@ import {
   test,
 } from 'vitest'
 
-import DateInput from '@/DateInput.vue'
+import DateInput from '../../src/DateInput.vue'
 
 import { renderToString } from '@vue/test-utils'
 

@@ -2,6 +2,7 @@
     <input
         ref="input"
         :value="value"
+        v-bind="$attrs"
         @jmask:change="onChange"
         @change="autofix"
         @input="autofix"
